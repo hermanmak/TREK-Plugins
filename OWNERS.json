@@ -145,6 +145,11 @@
       "boundOwner": "Tangerineeew",
       "repo": "Tangerineeew/fieldnotes-trip",
       "firstReviewedAt": "2026-10-25"
+    },
+    "sure-expense-import": {
+      "boundOwner": "hermanmak",
+      "repo": "hermanmak/trek-plugin-sure-sync",
+      "firstReviewedAt": "2026-11-15"
     }
   }
 }
